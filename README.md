@@ -19,16 +19,8 @@ Note, that both models have been trained in a similar fashion (no warm-up for th
   CPU times: user 11.9 s, sys: 77.5 ms, total: 12 s<br>
   Test Summary:   Bleu: 41.110, WER:  35.228, CER:  33.395 ,ACC:  17.702
 
-  Beam Search Decoding (beam width 20)<br>
-  CPU times: user 7min 48s, sys: 619 ms, total: 7min 49s <br>
-  Test Summary:  Bleu: 38.210, WER:  37.487, CER:  35.314, ACC:  17.135
-
 <i>Transformer Model:</i>
 
   Greedy Decoding<br>
   CPU times: user 43.2 s, sys: 217 ms, total: 43.4 s<br>
   Test Summary:  Bleu: 43.570, WER:  35.392, CER:  33.750, ACC:  19.818<br>
-
-  Beam Search Decoding (beam width 20)<br>
-  CPU times: user 40min 1s, sys: 3.44 s, total: 40min 5s <br>
-  Test Summary: Bleu: 43.570, WER:  34.519, CER:  33.098, ACC:  20.598<br>
