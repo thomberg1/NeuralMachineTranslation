@@ -1,5 +1,5 @@
 # NeuralMachineTranslation
-Experiments with Seq2Seq and transformer models and English to German translation.
+Experiments with Seq2Seq and Transformer models and English to German translation.
 
 This repository contains experiments with two machine translation models in pytorch. The first one is a sequence-to-sequence model with multi-head attention and the second model is a transformer as implemented in tensorflow.
 
