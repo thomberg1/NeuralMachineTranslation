@@ -30,5 +30,5 @@ Note, that both models have been trained in a similar fashion (no warm-up for th
   Test Summary:  Bleu: 43.570, WER:  35.392, CER:  33.750, ACC:  19.818<br>
 
   Beam Search Decoding (beam width 20)<br>
-  CPU times: user 7min 48s, sys: 619 ms, total: 7min 49s <br>
-  Test Summary:  Bleu: 44.060 WER:  32.789 CER:  35.598 ACC:  29.774<br>
+  CPU times: user 40min 1s, sys: 3.44 s, total: 40min 5s <br>
+  Test Summary: Bleu: 43.570, WER:  34.519, CER:  33.098, ACC:  20.598<br>
