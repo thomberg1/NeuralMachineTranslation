@@ -5,7 +5,7 @@ This repository contains experiments with two machine translation models in pyto
 
 The goal of the experiments is to see how the models compare in performance, how well they can be trained etc.
 
-The English to German dataset used are from: <a href='http://www.manythings.org/'>http://www.manythings.org/</a> and has been cleaned and saved as TSV file. The set contains 169,197 sentences.
+The English to German dataset used is from: <a href='http://www.manythings.org/'>http://www.manythings.org/</a> and has been cleaned and saved as TSV file. The set contains 169,197 sentences.
 
 Both model have been run for 30 epochs. WER was used as scoring function (blue : seq2seq, red : transformer):
  
